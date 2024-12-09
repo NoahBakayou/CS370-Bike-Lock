@@ -8,7 +8,10 @@ Participants
     Aybars Seyrek 
 
 ## Project Parts Breakdown:
-    
+![Screenshot 2024-12-08 235257](https://github.com/user-attachments/assets/0b56dbe5-a2ad-41e4-90c6-7be040bfc444)
+![Screenshot 2024-12-08 235330](https://github.com/user-attachments/assets/87968916-6f62-492b-92bc-9f09212c61f8)
+![Screenshot 2024-12-08 235408](https://github.com/user-attachments/assets/ebadbb90-afef-40d5-9daa-f648e3082d39)
+
 ### Part 1: Finite State Bike Lock 
 
     Here we were tasked with making a FSM (Finite State Machine) that takes the code 01100000, 
@@ -53,6 +56,9 @@ Participants
     Part 2: User Programable Bike Lock 
 
 ### Part 2: User Programable State Bike Lock 
+![Screenshot 2024-12-08 235429](https://github.com/user-attachments/assets/8a0306e5-c74f-44ed-8a7a-ddc6341dc9c4)
+![Screenshot 2024-12-08 235508](https://github.com/user-attachments/assets/7af298db-c4f4-42a9-ad59-c925747c6cf3)
+![Screenshot 2024-12-08 235408](https://github.com/user-attachments/assets/29449df4-7fa0-401f-8c26-f7577043599b)
 
     Part 2 uses the same basis for the logic and builds on it, using an 8 Bit Shift Register (Our User Attempted Code Storer) and 
     multiple D-Flip-Flops to hold the signal being passed to the system. 
