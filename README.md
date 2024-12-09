@@ -99,4 +99,42 @@ Participants
     All together part 2 works by storing both the Desired code as well as the users attempted at the code. 
     Which is then compares using XNOR's and an AND on all the XNOR's Checking.
 
+## Who Did What Work:
+    Teague:
+        Part 1:
+            Built K-Maps and the inital Flip flop design for part 1.
+            Build the wiring and the layout for the Button D-Flop for part 1 
+        Part 2:
+            Built the outline for part 2. 
+            Completed General Wiring 
+            Added The D-Flop Circuts and Sift Registers from user inputs
+            Implemented the, buttons and Registers for part 2.
+            
+
+    Sean:
+        I contributed to Lab 3 by developing a state diagram based on the the Red ID secret key 01100000. 
+        I then identified and labeled eight distinct states (S0-S7) and 
+        analyzed the transitions between these states. After constructing the state diagram,
+        I derived the corresponding state table to accurately represent the next-state output logic. 
+        This allowed for subsequent implementation steps into the K-maps.
+
+    Noah: 
+        Part 1
+            16 bit lock
+            Exported and labeled parts 
+            Labeled The K-Map Implementations
+        Part 2
+            D flip flops in parallel
+            Debugged shift register logic
+            Clock working
+            Added XNOR 
+            Fixed Wiring 
+            Exported Parts and Added Labels 
+
+    Aybars:
+        Added Comments for group readability 
+        Provided General Information
+        Wrote Summaries for different components
+    
+        
         
